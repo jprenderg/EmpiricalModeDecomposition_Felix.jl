@@ -1,4 +1,4 @@
-module EmpiricalModeDecomposition
+module EmpiricalModeDecomposition_Felix
 
 using Interpolations
 using Dierckx
